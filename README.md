@@ -1,4 +1,4 @@
-# School Management System PHP & MYSQL
+# Learning Management System PHP & MYSQL
 
 version: 1.0.0
 
